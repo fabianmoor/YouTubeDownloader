@@ -8,7 +8,7 @@ OPTIONS = {
         'CFBundleShortVersionString': '0.2.0',
         'LSUIElement': True,
     },
-    'packages': ['rumps'],
+    'packages': ['rumps', 'tkinter'],
 }
 setup(
     app=APP,
